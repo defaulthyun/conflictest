@@ -1,2 +1,2 @@
-# conflictest
-# confilct-b
+# confilct-a
+>>>>>>> origin/a
